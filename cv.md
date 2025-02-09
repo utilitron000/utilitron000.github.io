@@ -6,6 +6,11 @@ title: CV
 
 
 
+# Certifications
+- CompTIA A+
+- CompTIA Network+ (In Progress)
+
+
 # Experience
 
 
