@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Test
-subtitle: of template
+title: How the internet works
+subtitle: A day in the life of ping...
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: 
+tags: [Networking]
 author: utilitron
 comments: true
 mathjax: true
 ---
-# This is a test.
-abc123.
+
