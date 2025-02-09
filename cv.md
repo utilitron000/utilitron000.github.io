@@ -11,11 +11,16 @@ title: CV
 - CompTIA Network+ (In Progress)
 
 
-# Experience
-
+# Work Experience
+- Production Sound Mixer 2021-2024
+    - Worked on over 35 Unscripted TV Shows for major networks and Streaming
+- Library Assistant, Nederland Community Library
+    - Led a push to establish a digital presence including YouTube and other Social Media
+    - Won the Colorado Association of Libraries Award for Project of the Year in 2021.
+- Graphic Designer, The Business Connection
 
 
 # Education
-
-
+- MFA in The Book Arts, University of Alabama, 2017
+- BA in Philosophy, University of Toledo, 2014
 
