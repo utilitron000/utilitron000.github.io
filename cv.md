@@ -8,7 +8,8 @@ title: CV
 
 # Certifications
 - CompTIA A+
-- CompTIA Network+ (In Progress)
+- CompTIA Network+
+- CompTIA Security+ (In Progress)
 
 
 # Work Experience
