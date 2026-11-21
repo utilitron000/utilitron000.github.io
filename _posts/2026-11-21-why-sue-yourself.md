@@ -71,8 +71,8 @@ Coined by Dr. Timnit Gebru and Dr. Émile Torres in their seminal 2024 [paper](h
 
 
 ## AI Harm vs. AI Risk
-Although AI Harm and AI Risk sound similar or even interchangeable, the term 'AI Safety' has become so entrenched in TESCREAL circles that it now effectively functions as a dog whistle for AI Doomsday cults. When TESCREAL talks about AI risk they are referring to the 'existential risk' posed by an Artificial Super Intelligence that, to use their terminology, is not *aligned* with human values and goals.
-By contrast, 'AI Harm' is most often used to describe dangers and harms caused by LLMs and experienced by people today. The focus of AI Harm is not on some nebulous future risk, but instead on the children who are using LLMs as suicide coaches, nonconsensual deepfakes, algorithmic wage discrimination and pricing, massive scale cultural theft, discriminatory hiring practices, mass surveillance applications, wanton destruction of the environment, and other very real harms currently being done by LLMs.
+Although AI Harm and AI Risk sound similar or even interchangeable, the term *AI Risk* has become so entrenched in TESCREAL circles that it now effectively functions as a dog whistle for AI Doomsday cults. When TESCREAL talks about *AI Risk* they are referring to the 'existential risk' posed by an Artificial Super Intelligence that, to use their terminology, is not *aligned* with human values and goals.
+By contrast, 'AI Harm' is most often used to describe dangers and harms caused by LLMs and experienced by people today. The focus of AI Harm research is not on some nebulous future risk, but instead on the children who are using LLMs as suicide coaches, nonconsensual deepfakes, algorithmic wage discrimination and pricing, mass scale cultural theft, discriminatory hiring practices, mass surveillance applications, wanton destruction of the environment, and other very real harms currently being done by LLMs.
 
 
 ## Astroturfing
